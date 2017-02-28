@@ -1,0 +1,19 @@
+.content{
+	padding-top: 640px;
+}
+
+.card-image{
+	margin: 10px;
+	width: 300px;
+}
+
+.isi{
+	padding-top: 20px !important;
+}
+
+.kartu{
+	display: inline-block;
+	margin-top: 80px;
+	padding: 32px 48px 0px 48px;
+	border: 1px solid #EEE;
+}
